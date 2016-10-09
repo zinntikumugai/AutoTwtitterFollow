@@ -1,0 +1,2 @@
+# AutoTwtitterFollow
+半自動的にフォローをするプログラム
