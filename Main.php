@@ -1,9 +1,13 @@
 <?php
 /********************************
 
-  フォローが返しプログラム
+  フォロー返しプログラム
   Make by zinntikumugai (@uesitananame)
   Base  https://syncer.jp/twitter-api-matome/
+  
+  フォローしていないフォロワーをフォロー
+  
+  USE: PHP(5.3.3), DB(MySQL)
 
 *********************************/
 
